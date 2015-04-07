@@ -1,4 +1,4 @@
-# 2imd-webtech2-labs
+﻿# 2imd-webtech2-labs
 
 ## LAB 1
 Add a hyperlink to your lab1 assignment here:
@@ -18,7 +18,7 @@ Add a hyperlink to your lab1 assignment here:
 * Marijn Rutten: https://github.com/MarijnR/ayecaptain.git
 * Thais Lenglez: https://github.com/MarijnR/ayecaptain.git
 * Mannaert Yoshi: https://bitbucket.org/YoshiMannaert/coursework
-* Alexandre Tozzi: https://github.com/Mathijsvdb/GITtowork
+* Alexandre Tozzi: https://bitbucket.org/alextozzi/webtech-2-alexandre-tozzi
 * Jonas Reymen: https://bitbucket.org/jonasr001/webtech_2
 * Grace Yip: https://github.com/GY22/WebTech2-Grace.git
 * Niels Roels: https://github.com/NielsRoels/Webtech2
